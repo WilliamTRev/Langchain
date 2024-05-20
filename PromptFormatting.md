@@ -222,7 +222,7 @@ print(response3)
 
 ### Solution
 
-Solution code: below or [PromptFormatting.py](https://revature0.sharepoint.com/:u:/s/trainers/ESHWmdyksdZMmoAq4y383m8BAlZzpAUWJPkvLlT1NCIolg?e=WGeokr)
+Solution code: below or PromptFormatting.py
 ```python
 from langchain.prompts import ChatPromptTemplate
 from langchain.chat_models import ChatOpenAI

@@ -244,7 +244,7 @@ print(response5)
 [LangChain Expression Language](https://python.langchain.com/docs/expression_language)
 
 ### Solution
-Solution code: below or [IntroToRagLangChain.py](https://revature0.sharepoint.com/:u:/s/trainers/EVm3FGVi3gdKjtBfLMWOpdQBOhFcSe6gVQx24w5lhz_6Vw?e=bjto7P)
+Solution code: below or IntroToRagLangChain.py
 
 ```python
 #example 1

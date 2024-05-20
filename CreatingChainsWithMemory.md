@@ -182,7 +182,7 @@ print(response2)
 [LangChain Expression Language](https://python.langchain.com/docs/expression_language)
 
 ### Solution
-Solution code: below or [CreatingChainsWithMemory.py](https://revature0.sharepoint.com/:u:/s/trainers/EfUpH3C2LkxFqaINkadJcCkB_efimh2SuZ2PwL9l32wO1Q?e=5ygzbi)
+Solution code: below or CreatingChainsWithMemory.py
 
 ```python
 from operator import itemgetter

@@ -116,7 +116,7 @@ print(response2)
 [LangChain Expression Language](https://python.langchain.com/docs/expression_language)
 
 ### Solution
-Solution code: below or [ConnectionsDB.py](https://revature0.sharepoint.com/:u:/s/trainers/EXeJqxNGCmlDiRkO6-xireUBvKhK2Lw2avat9tCRp8n64w?e=p4rLAB)
+Solution code: below or ConnectionsDB.py
 
 ```python
 from langchain.prompts import ChatPromptTemplate

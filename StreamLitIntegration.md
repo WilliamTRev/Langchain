@@ -108,7 +108,7 @@ streamlit run StreamLitFun.py
 [Streamlit docs](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
 
 ### Solution
-Solution code: below or [StreamLitFun.py](https://revature0.sharepoint.com/:u:/s/trainers/ESTmnOZN4-FPhryMtIRPUYEBpr9RGSnvAZG6OnELbKrbvw?e=17nGnF)
+Solution code: below or StreamLitFun.py
 
 ```python
 #https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps

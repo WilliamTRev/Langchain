@@ -174,7 +174,7 @@ print(response3)
 
 ### Solution
 
-Solution code: below or [MultipleChains.py](https://revature0.sharepoint.com/:u:/s/trainers/Eeq9mAKmp31Jliy5iJ6WZvYBasS5z6Te0zhyJMt-Ox_f7Q?e=gkDXPj)
+Solution code: below or MultipleChains.py
 ```python
 from operator import itemgetter
 
